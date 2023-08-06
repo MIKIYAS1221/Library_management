@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oDHZLzZATSOVGBIGPn+bToxEhi/9YXeXyUebrIebNUNsddkk3LfsDLeg9bqWN5/ca59Pc/XoH+k2LE5Wj8Cxg==",
+  "success": true,
+  "projectFilePath": "/home/miki/RiderProjects/Library management/Library management/Library management.csproj",
+  "expectedPackageFiles": [
+    "/home/miki/.nuget/packages/microsoft.netcore.app.ref/7.0.5/microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.5/microsoft.netcore.app.host.linux-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
